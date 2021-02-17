@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Daniel, I live in Brazil and I'm a studying Bachelor of Information Technology and I'm learning how to programming. I already know a little about JavaScript, HTML and Python , but I want to learn much more!
+My name is Daniel, I live in Brazil and I'm a studying Bachelor of Information Technology and learning how to programming. I already know a little about JavaScript, HTML and Python , but I want to learn much more!
 
-I love to play games, so I hope I can work programming one some day, my favorite games are Quest For Glory, Red Dead Redemption and Deus Ex.
-
-You can reach me at: 
+I love to play games, so I hope I can work programming one some day, my favorite games are Quest For Glory and Deus Ex.
